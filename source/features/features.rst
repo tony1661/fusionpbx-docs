@@ -11,7 +11,7 @@ Setup a recording for the auto attendant that provides announcement to callers. 
 Authentication
 ----------------
 
-Extendable with plugin support. Web interface authentication by default authenticates against the FusionPBX Database. LDAP is one and has also been tested with Microsoft Active Directory an OpenLDAP.
+Extendable with plugin support. Web interface authentication by default authenticates against the FusionPBX Database. LDAP is one and has also been tested with Microsoft Active Directory and OpenLDAP.
 
 `Call Barge / Eavesdrop / Intercept`_
 ----------------------------------------
